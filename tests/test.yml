@@ -1,0 +1,5 @@
+---
+- name: Test Hello World Role
+  hosts: localhost
+  roles:
+    - hello_world
